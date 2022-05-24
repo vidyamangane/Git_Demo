@@ -16,6 +16,7 @@ public class Test {
 		Thread.sleep(3000);
 		driver.close();
 		System.out.println(" Browser closed");
+		System.out.println(" Browser gitx");
 	}
 
 }
