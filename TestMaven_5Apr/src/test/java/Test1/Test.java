@@ -17,6 +17,8 @@ public class Test {
 		driver.close();
 		System.out.println(" Browser closed");
 		System.out.println(" Browser gitx");
+		System.out.println(" Browser Web test");
+		System.out.println(" Browser App test");
 	}
 
 }
